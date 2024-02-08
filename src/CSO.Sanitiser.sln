@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE5B5136-CEE7-40AE-A799-A364D1A27D20}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSO.Sanitizer", "CSO.Sanitizer\CSO.Sanitizer.csproj", "{D1B13D3D-1B04-4752-8F06-B39350440E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Debug|x64.ActiveCfg = Debug|x64
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Debug|x64.Build.0 = Debug|x64
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Release|x64.ActiveCfg = Release|x64
+		{D1B13D3D-1B04-4752-8F06-B39350440E12}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C633644D-71C0-4CF2-95D0-F6C367931EB3}
+	EndGlobalSection
+EndGlobal

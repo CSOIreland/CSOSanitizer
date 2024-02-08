@@ -1,0 +1,12 @@
+W:\softwareArchitecture\sanitiser\Sanitizer\bin\Debug\net8.0\Sanitizer.deps.json
+W:\softwareArchitecture\sanitiser\Sanitizer\bin\Debug\net8.0\Sanitizer.dll
+W:\softwareArchitecture\sanitiser\Sanitizer\bin\Debug\net8.0\Sanitizer.pdb
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\Sanitizer.csproj.AssemblyReference.cache
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\Sanitizer.GeneratedMSBuildEditorConfig.editorconfig
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\Sanitizer.AssemblyInfoInputs.cache
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\Sanitizer.AssemblyInfo.cs
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\Sanitizer.csproj.CoreCompileInputs.cache
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\Sanitizer.dll
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\refint\Sanitizer.dll
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\Sanitizer.pdb
+W:\softwareArchitecture\sanitiser\Sanitizer\obj\Debug\net8.0\ref\Sanitizer.dll
