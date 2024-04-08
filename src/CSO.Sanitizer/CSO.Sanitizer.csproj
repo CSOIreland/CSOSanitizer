@@ -12,12 +12,12 @@
     <PackageId>CSO.Sanitizer.BETA</PackageId>
     <Product>CSO Sanitizer</Product>
     <Copyright>Central Statistics Office, Ireland</Copyright>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>Central Statistics Office, Ireland</Authors>
     <SignAssembly>False</SignAssembly>
     <RepositoryUrl>https://github.com/CSOIreland/CSOSanitizer</RepositoryUrl>
     <PackageReleaseNotes>
-      - [INFO] initial release of CSO standalone sanitizer library
+      - [ENHANCEMENT] updated to latest sanitizer library - (https://github.com/mganss/HtmlSanitizer/releases/tag/v8.0.843)
     </PackageReleaseNotes>
     <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
     <RestoreLockedMode>true</RestoreLockedMode>
@@ -30,7 +30,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="HtmlSanitizer" Version="8.0.723" />
+		<PackageReference Include="HtmlSanitizer" Version="8.0.843" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 	</ItemGroup>
   
