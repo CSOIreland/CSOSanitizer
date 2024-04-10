@@ -1,5 +1,11 @@
 ﻿namespace CSO.Sanitizer
 {
+    /// <summary>
+    ///This checks for the APINoCleanseDto attribute
+    ///Asserting this attribute means that request parameters will not be cleansed
+    /// </summary>
+    [AttributeUsage(AttributeTargets.Method)]
+    public class APINoCleanseDto : Attribute { }
 
     /// <summary>
     /// If an object contains contains a parameter with the NoHtmlStrip attribute then no HTML tags will be stripped when passed to the Sanitizer
