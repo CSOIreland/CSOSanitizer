@@ -9,15 +9,15 @@
     <GenerateAssemblyInfo>True</GenerateAssemblyInfo> 
     <Configuration></Configuration>
     <Company>Central Statistics Office, Ireland</Company>
-    <PackageId>CSO.Sanitizer.BETA</PackageId>
+    <PackageId>CSO.Sanitizer</PackageId>
     <Product>CSO Sanitizer</Product>
     <Copyright>Central Statistics Office, Ireland</Copyright>
-    <Version>0.0.3</Version>
+    <Version>0.0.2</Version>
     <Authors>Central Statistics Office, Ireland</Authors>
     <SignAssembly>False</SignAssembly>
     <RepositoryUrl>https://github.com/CSOIreland/CSOSanitizer</RepositoryUrl>
     <PackageReleaseNotes>
-      - [ENHANCEMENT] moved APINoCleanseDto from API to cso sanitizer
+      - [ENHANCEMENT] latest version of HtmlSanitizer package
     </PackageReleaseNotes>
     <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
     <RestoreLockedMode>true</RestoreLockedMode>
@@ -30,7 +30,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="HtmlSanitizer" Version="8.0.843" />
+		<PackageReference Include="HtmlSanitizer" Version="9.0.884" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 	</ItemGroup>
   
